@@ -1,0 +1,28 @@
+{
+  "session": {
+    "sessionId": "SessionId.xxxxxxxxxxxxxxxxxxxxxxx",
+    "application": {
+      "applicationId": "amzn1.ask.skill.2d0e51d1-2d72-4ca0-a324-dd486fa17213"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.xxxxxxxxxxxxxxxxxxxxxxx"
+    },
+    "new": true
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.b49018be-8265-418a-9226-72a0a3862550",
+    "locale": "en-GB",
+    "timestamp": "2017-04-29T13:45:17Z",
+    "intent": {
+      "name": "Simple",
+      "slots": {
+        "Year": {
+          "name": "Year"
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
